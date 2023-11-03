@@ -1,0 +1,4 @@
+github.com/go-daq/canbus v0.2.0 h1:KCxtmVSuf5rNo39WweOpye30zb2O6FbStRsWqB4KMrU=
+github.com/go-daq/canbus v0.2.0/go.mod h1:6AuWdXPOwL+87M1PDpt5+nhpzT+j+qkwz7rWW614ra0=
+golang.org/x/sys v0.0.0-20220818161305-2296e01440c6 h1:Sx/u41w+OwrInGdEckYmEuU5gHoGSL4QbDz3S9s6j4U=
+golang.org/x/sys v0.0.0-20220818161305-2296e01440c6/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
