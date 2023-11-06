@@ -20,8 +20,8 @@ func main() {
 		log.Fatalf("error binding to [%s]: %v\n", addr, err)
 	}
 
-	for {
-		msg, err := sck.Recv()
-	}
+	//for {
+	//	msg, err := sck.Recv()
+	//}
 
 }
